@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18d512b9-f9dd-450c-9e15-a65bc92ac5b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1g0zb6a7oS6fQPLYaIwHwy5pPJm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.MergeSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
+      <module name="PlayGround" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSort" />
+      <module name="PlayGround" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelectionSort" />
+      <module name="PlayGround" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.BubbleSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="PlayGround" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="playground [file:/home/gustavo/Projetos/PlayGround/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="PlayGround-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3194532730868" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1141531387" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../sp" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18d512b9-f9dd-450c-9e15-a65bc92ac5b4" name="Default Changelist" comment="" />
+      <created>1597266365423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597266365423</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600804980831">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1600804980831" />
+    <state width="1807" height="264" key="GridCell.Tab.0.bottom" timestamp="1600888804807">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="264" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600888804807" />
+    <state width="1807" height="264" key="GridCell.Tab.0.center" timestamp="1600888804806">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="264" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600888804806" />
+    <state width="1807" height="264" key="GridCell.Tab.0.left" timestamp="1600888804805">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="264" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600888804805" />
+    <state width="1807" height="264" key="GridCell.Tab.0.right" timestamp="1600888804806">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="264" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600888804806" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1598110287677">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1598110287677" />
+    <state x="317" y="168" width="1372" height="547" key="new project wizard" timestamp="1600888801526">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="317" y="168" width="1372" height="547" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1600888801526" />
+  </component>
+</project>
